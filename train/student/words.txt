@@ -1,0 +1,1 @@
+left,no,up,right,down,on,yes,off

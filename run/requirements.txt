@@ -1,0 +1,27 @@
+# notebook requirements
+jupyter
+jupyterlab
+
+# (micro)tvm requirements
+apache-tvm==0.11.1
+typing_extensions
+pyusb
+
+# espidf requirements
+click>=7.0
+pyserial>=3.3
+future>=0.15.2
+cryptography>=2.1.4
+pyparsing>=3.0.3
+pyelftools>=0.22
+idf-component-manager~=1.0
+gdbgui==0.13.2.0
+pygdbmi<=0.9.0.2
+python-socketio<5
+kconfiglib==13.7.1
+reedsolo>=1.5.3,<=1.5.4
+ecdsa>=0.16.0
+construct==2.10.54
+itsdangerous<2.1
+bitstring>=3.1.6,<4
+jinja2<3.1; python_version < "3.11"

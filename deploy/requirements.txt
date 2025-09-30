@@ -1,0 +1,9 @@
+# notebook requirements
+jupyter
+jupyterlab
+
+# (micro)tvm requirements
+apache-tvm==0.11.1
+typing_extensions
+pyusb
+tflite~=2.10

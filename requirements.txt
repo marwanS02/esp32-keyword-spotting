@@ -1,0 +1,4 @@
+-r 1_train/requirements.txt
+-r 2_deploy/requirements.txt
+-r 3_run/requirements.txt
+-r 4_debug/requirements.txt
